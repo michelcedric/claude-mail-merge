@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Mail-merge data: inputs, intermediate files and generated PDFs stay local
+input/
+work/
+output/
+
+# macOS / Office
+.DS_Store
+~$*

@@ -1,0 +1,5 @@
+openpyxl
+docx-mailmerge
+mammoth
+# optional, only used when Microsoft Word is installed:
+# docx2pdf
